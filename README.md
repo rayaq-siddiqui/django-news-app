@@ -2,4 +2,4 @@
 
 Access the website through the following links
 
-https://rayaq-news.herokuapp.com/ | https://git.heroku.com/rayaq-news.git
+https://rayaq-news-app.herokuapp.com/ | https://git.heroku.com/rayaq-news-app.git
